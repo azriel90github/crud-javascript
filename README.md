@@ -1,2 +1,1 @@
-# crud-javascript
- Sistema de Gestão de Pessoal
+<img src="assets/img/fundo-crud.jpeg" alt="banner-readme">
